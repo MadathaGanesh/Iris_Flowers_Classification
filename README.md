@@ -3,7 +3,7 @@ Programming Language Used : Python
 
 Tools Used : Jupiter , Anaconda .
 
-Classify and say the type of Flower based on its features like sepals petals
+Classify and say the type of Flower based on its features like sepals and petals length
 
 The "Iris Flowers Classification" project uses machine learning algorithms to accurately classify different species of iris flowers based on their distinctive features.
 
